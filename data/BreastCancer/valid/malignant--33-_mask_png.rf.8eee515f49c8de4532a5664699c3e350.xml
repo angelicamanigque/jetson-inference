@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>malignant--33-_mask_png.rf.8eee515f49c8de4532a5664699c3e350.jpg</filename>
+	<path>malignant--33-_mask_png.rf.8eee515f49c8de4532a5664699c3e350.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>92</xmin>
+			<xmax>315</xmax>
+			<ymin>51</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

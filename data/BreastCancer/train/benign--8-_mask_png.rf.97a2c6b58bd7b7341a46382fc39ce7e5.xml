@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>benign--8-_mask_png.rf.97a2c6b58bd7b7341a46382fc39ce7e5.jpg</filename>
+	<path>benign--8-_mask_png.rf.97a2c6b58bd7b7341a46382fc39ce7e5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>261</xmax>
+			<ymin>124</ymin>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
